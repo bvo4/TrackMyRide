@@ -1,0 +1,3 @@
+The files are being reuploaded because the project code was uploading to the github page via Unix system.  The Unix system ended up overwriting the entire github page, erasing all previous contents.  As such, the project proposal and the canvas are being reuploaded to github.
+
+These files were originally submitted on September 20, 2019.  Upon reupload, nothing was changed regarding these pdf files.
