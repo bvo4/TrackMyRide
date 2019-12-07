@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".fragments.TrackingFragment"
+    android:orientation="vertical"
+    android:paddingLeft="@dimen/main_margin"
+    android:paddingRight="@dimen/main_margin"
+    android:paddingTop="@dimen/main_margin">
+
+    <TextView
+        android:id="@+id/tv_broadcasting_status"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        tools:text="@string/broadcasting_false"/>
+
+    <Button
+        android:id="@+id/btn_broadcasting_status_toggle"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        tools:text="@string/start_broadcasting_location"/>
+
+</LinearLayout>
